@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class IntheEnd extends Sound {						public function IntheEnd() {			// constructor code		}	}	}
